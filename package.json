@@ -1,0 +1,22 @@
+{
+  "name": "redm-resource-factory",
+  "version": "1.0.0",
+  "description": "A monorepo boilerplate for generating RedM resources with C# backends and React frontends",
+  "private": true,
+  "scripts": {
+    "gen": "node scripts/generate.js"
+  },
+  "keywords": [
+    "redm",
+    "cfx.re",
+    "monorepo",
+    "boilerplate"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^11.2.0",
+    "chalk": "^4.1.2"
+  }
+}
+
